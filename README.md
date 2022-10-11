@@ -1,6 +1,6 @@
 Hacktoberfest-2022
 
-# Submit your PR on this new repo [Hacktoberfest](https://github.com/Pbjaishreeram11/Hacktoberfest2022) , There we are merging all valid PRs. 
+# Submit your PR on this new repo [Hacktoberfest2022](https://github.com/Pbjaishreeram11/Hacktoberfest2022) , There we are merging all valid PRs. 
 
 **This is a beginner-friendly project to help you get started with your
 [hacktoberfest](https://hacktoberfest.digitalocean.com/). If you don't know where to start, feel free to watch the videos linked below, and read the contribution rules. Happy Learning <3 💙 !!**
@@ -80,5 +80,5 @@ This will give you any eventual conflicts and allow you to easily solve them in 
 For more information on syncing forks [read this article from Github](https://help.github.com/articles/syncing-a-fork/).
 
 ## Swags of Hacktoberfest:
-- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2021 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
+- Many of the candidates get attracted towards hacktoberfest to get swags . So, after 4 successfully merged pull request as for 2022 you will be eligible to get a Hacktoberfest T-shirt and Some stickers on your doorstep.
 
